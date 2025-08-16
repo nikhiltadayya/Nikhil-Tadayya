@@ -1,27 +1,23 @@
 👋 Hi, I'm Nikhil Tadayya
-🎯 Aspiring Data Analyst | Python & SQL Enthusiast | Excel & Power BI Learner
+💻 Aspiring Data Analyst | 📊 Passionate About Data & Insights
 
-📌 About Me
-Hi! I'm Aarya Meshram, an enthusiastic learner passionate about exploring data and turning it into actionable insights. I love working with tools like Excel, SQL, Python, and Power BI to solve problems and visualize patterns. I'm currently focused on building real-world analytics projects and strengthening my data skills.
+Welcome to my GitHub profile! I enjoy turning raw data into clear, actionable insights using tools like SQL, Power BI, Excel, and Python. I'm currently building projects that explore real-world data in areas like HR, E-commerce, and Student Careers.
 
-🔧 Skills
-Languages & Tools: Python, MySQL, SQLite
-Analytics Platforms: Power BI, Excel (Pivot Tables, Charts, Functions)
-Other Tools: Git & GitHub, Jupyter Notebook
-Soft Skills: Problem-solving, Detail-oriented, Team collaboration
-💼 Projects
-📊 E-commerce Sales Dashboard – Built insightful dashboards using Power BI & Excel
-📁 Contact Book System – Created using Python and MySQL
-📈 HR Data Analysis – Extracted key metrics using SQL queries
-🎓 Student Record Manager – Python-based project with SQLite integration
-📊 Excel Dashboards – Visual reports using formulas and interactive charts
-📂 Explore more projects → GitHub Profile
-
+🧰 Tools & Technologies
+Languages: Python (Basics), SQL
+Data Tools: Power BI, Microsoft Excel
+Concepts: Data Cleaning, Dashboarding, Analysis, Basic DAX
+Learning: Data Analysis & Visualization
+🚀 Projects I'm Proud Of
+📱 Flipkart Mobile Analysis using SQL
+🎬 IMDB Movies Analysis using SQL
+🛒 E-commerce Store Dashboard – Power BI
+👩‍💼 HR Data Analysis – SQL
+🎓 StudentJobs Dashboard – Power BI
 📚 Currently Learning
-Advanced Excel Functions & Charts
-Power BI Data Storytelling
-SQL Case Studies & Real-world Scenarios
+Real-world data storytelling
+Intermediate Python for data analysis
 📫 Let's Connect
 💼 LinkedIn: 
-📧 Email: nikhitadayya2003@gmail.com
-🧠 GitHub: nikhiltadayya
+📧 Email:
+Thanks for stopping by! 😊
