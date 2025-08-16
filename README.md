@@ -23,5 +23,5 @@ Power BI Data Storytelling
 SQL Case Studies & Real-world Scenarios
 📫 Let's Connect
 💼 LinkedIn: 
-📧 Email: 
-🧠 GitHub: 
+📧 Email: nikhitadayya2003@gmail.com
+🧠 GitHub: nikhiltadayya
